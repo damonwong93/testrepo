@@ -1,6 +1,2 @@
-
-this is the merged file
-
-HDSLFJLKSAJFDLKSAJFLKSALKFSALJFSA
-
+this is a test file
 
