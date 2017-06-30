@@ -1,2 +1,4 @@
 this is a test file
+adding another new line
 this is a new line from branch2
+adding second new line
